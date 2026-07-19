@@ -1,12 +1,12 @@
-# S2F-NET
-This is the clean release code for the paper model **
-S2F-Net: A Robust Spatial-Spectrum Fusion Framework for Cross-Model**, an AI-generated image detector.
+# AiDet_FFT
+
+This is the clean release code for the paper model **AiDet_FFT**, an AI-generated image detector.
 Only the authors' model, training pipeline, preprocessing, and prediction code are included.
 
 ## Files
 
 ```text
-Aidet/
+github_release/
   aigcdetect/
     model.py              # AiDet_FFT network
     preprocess.py         # Smash-and-reconstruct preprocessing
