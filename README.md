@@ -1,5 +1,4 @@
-# AiDet_FFT
-
+# S2F-NET
 This is the clean release code for the paper model **AiDet_FFT**, an AI-generated image detector.
 Only the authors' model, training pipeline, preprocessing, and prediction code are included.
 
