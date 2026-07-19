@@ -8,6 +8,7 @@ Only the authors' model, training pipeline, preprocessing, and prediction code a
 
 ```text
   aigcdetect/
+    _init_.py
     model.py              # AiDet_FFT network
     preprocess.py         # Smash-and-reconstruct preprocessing
     data.py               # 0_real / 1_fake dataset loader
@@ -18,6 +19,8 @@ Only the authors' model, training pipeline, preprocessing, and prediction code a
   train.py
   predict.py
   requirements.txt
+  README.md
+  eval.py
 ```
 
 ## Installation
